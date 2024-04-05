@@ -5,7 +5,7 @@
 • SQL.<br>
 • Testing.
 
-**Dashboard Used in Testing**
+<ins>**Dashboard Used in Testing**
 
 **Why Testing Required?**
 If some values are found incorrect in the Power BI dashboard despite the data being clean, several possibilities could have led to this issue. Here are some potential reasons:
