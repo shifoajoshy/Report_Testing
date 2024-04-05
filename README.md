@@ -13,7 +13,6 @@ PDF format: [Hospitality_Taj_Hotels.pdf](https://github.com/shifoajoshy/Report_T
 • If some values are found incorrect in the Power BI dashboard despite the data being clean, several possibilities could have led to this issue. Here are some potential reasons:
 
 <ins>**Data Transformation Errors:**<ins> <br>
-
 • Mistakes during data preprocessing could lead to inaccurate values due to flawed transformation logic.
 
 <ins>**Calculation Errors:**<ins><br>
