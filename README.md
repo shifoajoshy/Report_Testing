@@ -33,7 +33,7 @@ If some values are found incorrect in the Power BI dashboard despite the data be
 • The objective of this project is to validate the functionality, performance, and security aspects of the Power BI dashboard connected to a PostgreSQL database.
 • The testing in this project aims to ensure data accuracy, delivers accurate insights, dashboard meets user requirements, proper functioning of dashboard features, and adherence to security protocols.
 
-### <ins>**Test Design overview & Types of Testing Involved:**<ins><br>
+## <ins>**Test Design overview & Types of Testing Involved:**<ins><br>
 
 <ins><br>**Data Validation Testing:**<ins><br>
 
