@@ -35,7 +35,7 @@ If some values are found incorrect in the Power BI dashboard despite the data be
 
 ### <ins>**Test Design overview & Types of Testing Involved:**<ins><br>
 
-<ins><br>**Data Validation Testing:**<ins><br>
+<br><br><br><ins>**Data Validation Testing:**<ins><br>
 
 • SQL queries are executed to validate data consistency and accuracy across the PostgreSQL tables and the dashboard.
 
