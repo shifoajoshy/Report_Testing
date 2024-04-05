@@ -9,26 +9,30 @@
 pbix format: https://github.com/shifoajoshy/Report_Testing/blob/main/Dashboard%20%26%20Data%20%20Source/Hospitality_Taj_Hotels.pbix <br> 
 PDF format: [Hospitality_Taj_Hotels.pdf](https://github.com/shifoajoshy/Report_Testing/files/14887583/Hospitality_Taj_Hotels.pdf)
 
-### <ins>**Why Testing Required?**<ins> <br>
+### <ins>**Why Testing Required?**<ins><br>
+
 • If some values are found incorrect in the Power BI dashboard despite the data being clean, several possibilities could have led to this issue. Here are some potential reasons:
 
-<ins>**Data Transformation Errors:**<ins> <br>
+<ins>**Data Transformation Errors:**<ins><br>
+
 • Mistakes during data preprocessing could lead to inaccurate values due to flawed transformation logic.
 
 <ins>**Calculation Errors:**<ins><br>
+
 • Errors in DAX calculations or measures may result in incorrect summary values being displayed.
 
-<ins>**Filtering or Slicing Problems:**<ins> <br>
+<ins>**Filtering or Slicing Problems:**<ins><br>
 • Incorrectly applied filters or slicers could show only a subset of data, leading to misleading conclusions.
 
 <ins><br>**Cross-Filtering and Relationships:**<ins><br>
+
 • Incorrectly defined relationships between tables or misconfigured cross-filtering can cause unexpected results.
 
 ### <ins><br>**Objective:**<ins><br>
 • The objective of this project is to validate the functionality, performance, and security aspects of the Power BI dashboard connected to a PostgreSQL database.
 • The testing in this project aims to ensure data accuracy, delivers accurate insights, dashboard meets user requirements, proper functioning of dashboard features, and adherence to security protocols.
 
-### <ins><br>**Test Design overview & Types of Testing Involved:**<ins><br>
+### <ins>**Test Design overview & Types of Testing Involved:**<ins><br>
 
 <ins><br>**Data Validation Testing:**<ins><br>
 • SQL queries are executed to validate data consistency and accuracy across the PostgreSQL tables and the dashboard.
