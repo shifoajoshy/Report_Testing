@@ -50,6 +50,7 @@ If some values are found incorrect in the Power BI dashboard despite the data be
 • Tools like DAX Studio and Bravo are utilized to optimize DAX queries and enhance dashboard performance.
 
 <ins><br>**Integration Testing:**<ins><br>
+
 • Scheduled refresh functionality is tested to ensure data is updated according to the defined schedule.
 • Data gateway setup and connectivity are verified to ensure seamless data transfer between Power BI and PostgreSQL.
 
