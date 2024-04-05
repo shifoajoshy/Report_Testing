@@ -13,21 +13,21 @@
 
 If some values are found incorrect in the Power BI dashboard despite the data being clean, several possibilities could have led to this issue. Here are some potential reasons:
 
-<ins>**Data Transformation Errors:**<ins><br>
+   <ins>**Data Transformation Errors:**<ins><br>
 
-• Mistakes during data preprocessing could lead to inaccurate values due to flawed transformation logic.
+  • Mistakes during data preprocessing could lead to inaccurate values due to flawed transformation logic.
 
-<ins>**Calculation Errors:**<ins><br>
+  <ins>**Calculation Errors:**<ins><br>
 
-• Errors in DAX calculations or measures may result in incorrect summary values being displayed.
+  • Errors in DAX calculations or measures may result in incorrect summary values being displayed.
 
-<ins>**Filtering or Slicing Problems:**<ins><br>
+  <ins>**Filtering or Slicing Problems:**<ins><br>
 
-• Incorrectly applied filters or slicers could show only a subset of data, leading to misleading conclusions.
+  • Incorrectly applied filters or slicers could show only a subset of data, leading to misleading conclusions.
 
-<ins><br>**Cross-Filtering and Relationships:**<ins><br>
+  <ins><br>**Cross-Filtering and Relationships:**<ins><br>
 
-• Incorrectly defined relationships between tables or misconfigured cross-filtering can cause unexpected results.
+  • Incorrectly defined relationships between tables or misconfigured cross-filtering can cause unexpected results.
 
 ### <ins><br>**Objective:**<ins><br>
 • The objective of this project is to validate the functionality, performance, and security aspects of the Power BI dashboard connected to a PostgreSQL database.
