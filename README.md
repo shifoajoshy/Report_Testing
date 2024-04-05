@@ -41,17 +41,17 @@ If some values are found incorrect in the Power BI dashboard despite the data be
 
 <ins>**Functionality Testing:**<ins><br>
 
-• Test cases are designed to verify the functionality of filters, KPI indicators, occupancy, realisation percentage, and chart interactions.
+• Test cases are designed to verify the functionality of filters, KPI indicators, occupancy, realisation percentage, and chart interactions.<br>
 • DAX formulas are validated to ensure correct calculation.
 
 <ins>**Performance Testing:**<ins>
 
-• Performance metrics are defined to measure dashboard response time during filter interactions, data refresh, and loading.
+• Performance metrics are defined to measure dashboard response time during filter interactions, data refresh, and loading.<br>
 • Tools like DAX Studio and Bravo are utilized to optimize DAX queries and enhance dashboard performance.
 
 <ins>**Integration Testing:**<ins><br>
 
-• Scheduled refresh functionality is tested to ensure data is updated according to the defined schedule.
+• Scheduled refresh functionality is tested to ensure data is updated according to the defined schedule.<br>
 • Data gateway setup and connectivity are verified to ensure seamless data transfer between Power BI and PostgreSQL.
 
 <ins>**Non-Functional Requirement (NFR) Testing:**<ins><br>
