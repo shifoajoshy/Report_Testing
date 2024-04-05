@@ -46,6 +46,8 @@ SQL queries are executed to validate data consistency and accuracy across the Po
 **Non-Functional Requirement (NFR) Testing:**
 • Row-level and page-level security measures are tested to confirm that users have appropriate access to data based on security roles.
 
+[Test Design.docx.xlsx](https://github.com/shifoajoshy/Report_Testing/files/14885971/Test.Design.docx.xlsx)
+
 **Outcome:**
 
 **Incorrect Revenue Display in Donut Chart:**
