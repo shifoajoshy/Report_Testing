@@ -54,9 +54,10 @@ If some values are found incorrect in the Power BI dashboard despite the data be
 • Data gateway setup and connectivity are verified to ensure seamless data transfer between Power BI and PostgreSQL.
 
 <ins>**Non-Functional Requirement (NFR) Testing:**<ins><br>
+
 • Row-level and page-level security measures are tested to confirm that users have appropriate access to data based on security roles.
 
-<ins>**Test Design report:<ins>** [Test Design.docx.xlsx](https://github.com/shifoajoshy/Report_Testing/files/14885971/Test.Design.docx.xlsx)
+### <ins>**Test Design report:<ins>** [Test Design.docx.xlsx](https://github.com/shifoajoshy/Report_Testing/files/14885971/Test.Design.docx.xlsx)
 
 ### **Outcome:**
 
