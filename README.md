@@ -5,7 +5,7 @@
 • SQL.<br>
 • Testing.
 
-<ins>**Dashboard Used in Testing**<ins>: [Hospitality_Taj_Hotels.pbix](https://github.com/shifoajoshy/Report_Testing/files/14887507/Hospitality_Taj_Hotels.pbix)
+<ins>**Dashboard Used in Testing**<ins>: Dashboard & Data  Source/Hospitality_Taj_Hotels.pbix
 
 **Why Testing Required?**
 If some values are found incorrect in the Power BI dashboard despite the data being clean, several possibilities could have led to this issue. Here are some potential reasons:
