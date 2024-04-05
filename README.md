@@ -25,7 +25,7 @@ If some values are found incorrect in the Power BI dashboard despite the data be
 
   • Incorrectly applied filters or slicers could show only a subset of data, leading to misleading conclusions.
 
-  <ins><br>**Cross-Filtering and Relationships:**<ins><br>
+  <ins>**Cross-Filtering and Relationships:**<ins><br>
 
   • Incorrectly defined relationships between tables or misconfigured cross-filtering can cause unexpected results.
 
