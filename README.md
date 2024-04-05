@@ -60,7 +60,7 @@ If some values are found incorrect in the Power BI dashboard despite the data be
 
 ### <ins>**Test Design report:<ins>** [Test Design.docx.xlsx](https://github.com/shifoajoshy/Report_Testing/files/14885971/Test.Design.docx.xlsx)
 
-### **Outcome:**
+### <ins>**Outcome:**<ins>
 
 **Incorrect Revenue Display in Donut Chart:**
 The revenue figure in the Donut Chart is inaccurately presented, possibly due to data aggregation or visualization settings.
@@ -68,7 +68,7 @@ The revenue figure in the Donut Chart is inaccurately presented, possibly due to
 **Identification of 8 Non-Relevant Columns:**
 Eight columns found in the dashboard are deemed non-relevant or unnecessary, impacting data clarity and analysis.
 
-**Violation of Best Practice Analyzer Rules:**
+--**Violation of Best Practice Analyzer Rules:**
 Upon running the Best Practice Analyzer, it was discovered that 11 rules were violated:
 - Fully qualify column references (30 objects).
 - Provide format string for visible numeric measures (14 objects).
