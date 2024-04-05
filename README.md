@@ -27,11 +27,11 @@ If some values are found incorrect in the Power BI dashboard despite the data be
 
   <ins>**Cross-Filtering and Relationships:**<ins><br>
 
-  • Incorrectly defined relationships between tables or misconfigured cross-filtering can cause unexpected results.
+  • Incorrectly defined relationships between tables or misconfigured cross-filtering can cause unexpected results.<br><br>
 
-### <ins><br>**Objective:**<ins><br>
+### <ins>**Objective:**<ins><br>
 • The objective of this project is to validate the functionality, performance, and security aspects of the Power BI dashboard connected to a PostgreSQL database.
-• The testing in this project aims to ensure data accuracy, delivers accurate insights, dashboard meets user requirements, proper functioning of dashboard features, and adherence to security protocols.
+• The testing in this project aims to ensure data accuracy, delivers accurate insights, dashboard meets user requirements, proper functioning of dashboard features, and adherence to security protocols.<br><br>
 
 ### <ins>**Test Design overview & Types of Testing Involved:**<ins><br>
 
@@ -56,19 +56,19 @@ If some values are found incorrect in the Power BI dashboard despite the data be
 
 <ins>**Non-Functional Requirement (NFR) Testing:**<ins><br>
 
-• Row-level and page-level security measures are tested to confirm that users have appropriate access to data based on security roles.
+• Row-level and page-level security measures are tested to confirm that users have appropriate access to data based on security roles.<br><br>
 
-### <ins>**Test Design report:<ins>** [Test Design.docx.xlsx](https://github.com/shifoajoshy/Report_Testing/files/14885971/Test.Design.docx.xlsx)
+### <ins>**Test Design report:<ins>** [Test Design.docx.xlsx](https://github.com/shifoajoshy/Report_Testing/files/14885971/Test.Design.docx.xlsx) <br><br>
 
 ### <ins>**Outcome:**<ins>
 
-**Incorrect Revenue Display in Donut Chart:**
+•**Incorrect Revenue Display in Donut Chart:**
 The revenue figure in the Donut Chart is inaccurately presented, possibly due to data aggregation or visualization settings.
 
-**Identification of 8 Non-Relevant Columns:**
+•**Identification of 8 Non-Relevant Columns:**
 Eight columns found in the dashboard are deemed non-relevant or unnecessary, impacting data clarity and analysis.
 
---**Violation of Best Practice Analyzer Rules:**
+•**Violation of Best Practice Analyzer Rules:**
 Upon running the Best Practice Analyzer, it was discovered that 11 rules were violated:
 - Fully qualify column references (30 objects).
 - Provide format string for visible numeric measures (14 objects).
