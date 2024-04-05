@@ -3,7 +3,7 @@
 ### <ins>**Skills Utilized**
 
 • SQL.<br>
-• Testing.
+• Testing.<br><br>
 
 ### <ins>**Dashboard Used in Testing**<ins>:<br>
 pbix format: https://github.com/shifoajoshy/Report_Testing/blob/main/Dashboard%20%26%20Data%20%20Source/Hospitality_Taj_Hotels.pbix <br> 
