@@ -1,4 +1,4 @@
-# **End to End POWER BI Dashboard testing**
+# **End To End POWER BI Dashboard Testing**
 
 ### <ins>**Skills Utilized**
 
