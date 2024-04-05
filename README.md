@@ -67,4 +67,3 @@ Upon running the Best Practice Analyzer, it was discovered that 11 rules were vi
 - Ensure column and hierarchy names start with an uppercase letter (28 objects).
 - Ensure measure and table names start with an uppercase letter (6 objects).
 - Disable auto date/time (1 object).
-
