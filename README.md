@@ -1,6 +1,6 @@
 # **README**
 
-### **Skills Utilized**
+### <u>**Skills Utilized**</u>
 
 • SQL.
 • Testing.
