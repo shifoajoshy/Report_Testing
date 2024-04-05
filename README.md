@@ -3,7 +3,6 @@
 **Skills Utilized**
 
 • SQL.
-
 • Testing.
 
 **Dashboard Used in Testing**
