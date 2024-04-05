@@ -22,6 +22,7 @@ PDF format: [Hospitality_Taj_Hotels.pdf](https://github.com/shifoajoshy/Report_T
 • Errors in DAX calculations or measures may result in incorrect summary values being displayed.
 
 <ins>**Filtering or Slicing Problems:**<ins><br>
+
 • Incorrectly applied filters or slicers could show only a subset of data, leading to misleading conclusions.
 
 <ins><br>**Cross-Filtering and Relationships:**<ins><br>
