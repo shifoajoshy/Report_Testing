@@ -35,13 +35,16 @@ PDF format: [Hospitality_Taj_Hotels.pdf](https://github.com/shifoajoshy/Report_T
 ### <ins>**Test Design overview & Types of Testing Involved:**<ins><br>
 
 <ins><br>**Data Validation Testing:**<ins><br>
+
 • SQL queries are executed to validate data consistency and accuracy across the PostgreSQL tables and the dashboard.
 
-<ins><br>**Functionality Testing:**<ins><br>
+<ins>**Functionality Testing:**<ins><br>
+
 • Test cases are designed to verify the functionality of filters, KPI indicators, occupancy, realisation percentage, and chart interactions.
 • DAX formulas are validated to ensure correct calculation.
 
-<ins><br>**Performance Testing:**<ins><br>
+<ins>**Performance Testing:**<ins>
+
 • Performance metrics are defined to measure dashboard response time during filter interactions, data refresh, and loading.
 • Tools like DAX Studio and Bravo are utilized to optimize DAX queries and enhance dashboard performance.
 
