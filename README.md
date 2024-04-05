@@ -2,7 +2,7 @@
 
 ### <ins>**Skills Utilized**<ins>
 
-• SQL.
+• SQL.<br>
 • Testing.
 
 **Dashboard Used in Testing**
